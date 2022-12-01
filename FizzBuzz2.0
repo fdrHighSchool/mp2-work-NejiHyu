@@ -1,0 +1,28 @@
+public class Main {
+  public static void main(String[] args) {
+    fizzbuzz(int 1 && int 100);
+    
+  } // end of main method
+ 
+  
+  public static String fizzbuzz(int 1, int 100) {
+    for (num <= 100) {
+      num = 1;
+      // print('fizzbuzz')
+      if (num%3 ==0  && num%5 ==0){
+        return "fizzbuzz";
+        }// end of if statement
+        // print('fizz')
+        elseif(num%3 == 0); {
+          return "fizz";
+        }// end of elseif1 statement
+          // print('buzz')
+          elseif (num%5 == 0); {
+            return "buzz";
+          }// end of elsif2 statement
+            else{
+             return num += 1;
+            } // end of else statement
+    }
+  }
+} // end of class 
