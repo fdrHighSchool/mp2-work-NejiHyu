@@ -19,19 +19,19 @@
 
   * if [x == 10] {
 
-    * **YOUR WRITING HERE**
+    * Incorrect
 
   * if x = 10 then {
 
-    * **YOUR WRITING HERE**
+    * Incorrect
 
   * if (x equals 42) {
 
-    * **YOUR WRITING HERE**
+    * Incorrect
 
   * if (x => y) {
 
-    * **YOUR WRITING HERE**
+    * Incorrect
 
 
 3. Fix the error in the code below:
