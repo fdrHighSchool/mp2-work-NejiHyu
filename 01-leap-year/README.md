@@ -19,19 +19,23 @@
 
   * if [x == 10] {
 
-    * Incorrect
+    * Incorrect 
+    if (x == 10) {
 
   * if x = 10 then {
 
     * Incorrect
+    if (x ==10) {
 
   * if (x equals 42) {
 
     * Incorrect
+    if (x == 42) {
 
   * if (x => y) {
 
     * Incorrect
+    if (x >= y) {
 
 
 3. Fix the error in the code below:
