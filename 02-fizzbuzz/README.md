@@ -21,4 +21,4 @@
 | F  | F  |     F    |       T      |  T |  T |     T    |
 
 3. What does DeMorgan's state and how did you prove it for the case above?
-  * DeMorgan's state that if ! (a||b) = !a && !b
+  * DeMorgan's state that if !(a||b) = !a && !b
