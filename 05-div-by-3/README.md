@@ -6,4 +6,4 @@ Outline an algorithm to determine whether or not a number is prime.
 Think of the following method header:
 `public static boolean isPrime(int num)`
 
-  * **YOUR WRITING HERE**
+  * I will make if statements to determined if it's div by 3 then it's true so I keep it. But if it's not then it's technically false and probably a prime.
